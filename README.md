@@ -1,2 +1,4 @@
 # WordPress
-Ovaj REP sluzi za vezbanje
+Ovaj REPositor. sluzi za vezbanje
+
+
